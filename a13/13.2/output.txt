@@ -1,0 +1,8 @@
+Adding the two complex numbers
+Required complex number is: 8+i(13)
+Multiplying the two complex numbers
+Required complex number is: -21+i(47)
+Subtracting the two complex numbers
+Required complex number is: -2+i(-5)
+Assigning to c3
+Required complex number is: 8+i(13) 
